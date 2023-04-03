@@ -4,7 +4,7 @@
 基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码。
 
 
-### 技术栈
+## 技术栈
 
 - Spring Boot 2.7.x + springvoot-init 脚手架
 - MySQL 数据库（8.x版本）
@@ -35,8 +35,8 @@
 
 ## 项目架构图：
 
-![](https://github.com/wuliOVO/zxff-backend/blob/master/doc/framework.png?raw=true)
+![](https://raw.iqiq.io/wuliOVO/zxff-backend/master/doc/framework.png)
 
 ## Elastic Stack-Kibana数据看板
 
-![](https://github.com/wuliOVO/zxff-backend/blob/master/doc/sta.png?raw=true)
+![](https://raw.iqiq.io/wuliOVO/zxff-backend/master/doc/sta.png)
