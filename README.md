@@ -35,4 +35,8 @@
 
 ## 项目架构图：
 
-![image](https://raw.githubusercontent.com/wuliOVO/zxff-backend/master/doc/framework.png)
+![](https://github.com/wuliOVO/zxff-backend/blob/master/doc/framework.png?raw=true)
+
+## Elastic Stack-Kibana数据看板
+
+![](https://github.com/wuliOVO/zxff-backend/blob/master/doc/sta.png?raw=true)
