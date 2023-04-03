@@ -35,4 +35,4 @@
 
 ## 项目架构图：
 
-![image](https://github.com/wuliOVO/zxff-backend/blob/021832f496b3f96b20ee526063cf3932220571ac/doc/framework.png)
+![image](https://raw.githubusercontent.com/wuliOVO/zxff-backend/master/doc/framework.png)
